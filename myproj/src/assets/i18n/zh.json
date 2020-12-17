@@ -1,0 +1,7 @@
+{
+    "HOME": {
+        "TITLE": "带有ngx-translate FR的Hello Angular",
+        "TEXT" : "该演示是从ngx-translate创建的",
+        "SELECT": "选择语言"
+    }
+}
